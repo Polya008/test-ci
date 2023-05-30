@@ -1,7 +1,7 @@
 {
-  "name": "test-ci_1",
+  "name": "test-ci",
   "version": "1.0.0",
-  "description": "Домашнее задание к лекции «Unit-тестирование» - «Чистые функции»",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anna-popova/test-ci_1.git"
+    "url": "git+https://github.com/Polya008/test-ci.git"
   },
-  "author": "anna popova",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anna-popova/test-ci_1/issues"
+    "url": "https://github.com/Polya008/test-ci/issues"
   },
-  "homepage": "https://github.com/anna-popova/test-ci_1#readme",
+  "homepage": "https://github.com/Polya008/test-ci#readme",
   "devDependencies": {
     "@babel/cli": "^7.18.9",
     "@babel/core": "^7.18.9",
